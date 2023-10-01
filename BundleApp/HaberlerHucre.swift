@@ -9,4 +9,11 @@ import UIKit
 
 class HaberlerHucre: UICollectionViewCell {
     
+    @IBOutlet weak var imageViewHaber: UIImageView!
+    
+    @IBOutlet weak var labelKaynakAd: UILabel!
+    
+    @IBOutlet weak var labelHaberBaslik: UILabel!
+    
+    @IBOutlet weak var labelHaberZaman: UILabel!
 }
