@@ -11,6 +11,6 @@ class Bildirimler: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        //todo
     }
 }
