@@ -7,23 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE59E91E2AC370BF001F1303 /* bundle.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BE59E91D2AC370BF001F1303 /* bundle.jpeg */; };
 		BEF67ABD2AC1E1A300E20AA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67ABC2AC1E1A300E20AA2 /* AppDelegate.swift */; };
 		BEF67ABF2AC1E1A300E20AA2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67ABE2AC1E1A300E20AA2 /* SceneDelegate.swift */; };
-		BEF67AC12AC1E1A300E20AA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67AC02AC1E1A300E20AA2 /* ViewController.swift */; };
+		BEF67AC12AC1E1A300E20AA2 /* Anasayfa.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67AC02AC1E1A300E20AA2 /* Anasayfa.swift */; };
 		BEF67AC42AC1E1A300E20AA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF67AC22AC1E1A300E20AA2 /* Main.storyboard */; };
 		BEF67AC62AC1E1A400E20AA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEF67AC52AC1E1A400E20AA2 /* Assets.xcassets */; };
 		BEF67AC92AC1E1A400E20AA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF67AC72AC1E1A400E20AA2 /* LaunchScreen.storyboard */; };
+		BEF67AD52AC1E48600E20AA2 /* OneCikanlar.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67AD42AC1E48600E20AA2 /* OneCikanlar.swift */; };
+		BEF67AD72AC1E4D800E20AA2 /* IcerikMagazasi.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67AD62AC1E4D800E20AA2 /* IcerikMagazasi.swift */; };
+		BEF67AD92AC1F97500E20AA2 /* Haberler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67AD82AC1F97500E20AA2 /* Haberler.swift */; };
+		BEF67ADB2AC2245B00E20AA2 /* Bildirimler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67ADA2AC2245B00E20AA2 /* Bildirimler.swift */; };
+		BEF67ADD2AC2282000E20AA2 /* HaberlerHucre.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF67ADC2AC2282000E20AA2 /* HaberlerHucre.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BE59E91D2AC370BF001F1303 /* bundle.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bundle.jpeg; sourceTree = "<group>"; };
 		BEF67AB92AC1E1A300E20AA2 /* BundleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BundleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEF67ABC2AC1E1A300E20AA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BEF67ABE2AC1E1A300E20AA2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BEF67AC02AC1E1A300E20AA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BEF67AC02AC1E1A300E20AA2 /* Anasayfa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anasayfa.swift; sourceTree = "<group>"; };
 		BEF67AC32AC1E1A300E20AA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BEF67AC52AC1E1A400E20AA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEF67AC82AC1E1A400E20AA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BEF67ACA2AC1E1A400E20AA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEF67AD42AC1E48600E20AA2 /* OneCikanlar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneCikanlar.swift; sourceTree = "<group>"; };
+		BEF67AD62AC1E4D800E20AA2 /* IcerikMagazasi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IcerikMagazasi.swift; sourceTree = "<group>"; };
+		BEF67AD82AC1F97500E20AA2 /* Haberler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haberler.swift; sourceTree = "<group>"; };
+		BEF67ADA2AC2245B00E20AA2 /* Bildirimler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bildirimler.swift; sourceTree = "<group>"; };
+		BEF67ADC2AC2282000E20AA2 /* HaberlerHucre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HaberlerHucre.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +68,15 @@
 		BEF67ABB2AC1E1A300E20AA2 /* BundleApp */ = {
 			isa = PBXGroup;
 			children = (
+				BE59E91D2AC370BF001F1303 /* bundle.jpeg */,
 				BEF67ABC2AC1E1A300E20AA2 /* AppDelegate.swift */,
 				BEF67ABE2AC1E1A300E20AA2 /* SceneDelegate.swift */,
-				BEF67AC02AC1E1A300E20AA2 /* ViewController.swift */,
+				BEF67AC02AC1E1A300E20AA2 /* Anasayfa.swift */,
+				BEF67ADC2AC2282000E20AA2 /* HaberlerHucre.swift */,
+				BEF67AD82AC1F97500E20AA2 /* Haberler.swift */,
+				BEF67AD42AC1E48600E20AA2 /* OneCikanlar.swift */,
+				BEF67AD62AC1E4D800E20AA2 /* IcerikMagazasi.swift */,
+				BEF67ADA2AC2245B00E20AA2 /* Bildirimler.swift */,
 				BEF67AC22AC1E1A300E20AA2 /* Main.storyboard */,
 				BEF67AC52AC1E1A400E20AA2 /* Assets.xcassets */,
 				BEF67AC72AC1E1A400E20AA2 /* LaunchScreen.storyboard */,
@@ -126,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEF67AC92AC1E1A400E20AA2 /* LaunchScreen.storyboard in Resources */,
+				BE59E91E2AC370BF001F1303 /* bundle.jpeg in Resources */,
 				BEF67AC62AC1E1A400E20AA2 /* Assets.xcassets in Resources */,
 				BEF67AC42AC1E1A300E20AA2 /* Main.storyboard in Resources */,
 			);
@@ -138,9 +157,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEF67AC12AC1E1A300E20AA2 /* ViewController.swift in Sources */,
+				BEF67ADB2AC2245B00E20AA2 /* Bildirimler.swift in Sources */,
+				BEF67AC12AC1E1A300E20AA2 /* Anasayfa.swift in Sources */,
+				BEF67ADD2AC2282000E20AA2 /* HaberlerHucre.swift in Sources */,
+				BEF67AD72AC1E4D800E20AA2 /* IcerikMagazasi.swift in Sources */,
+				BEF67AD92AC1F97500E20AA2 /* Haberler.swift in Sources */,
 				BEF67ABD2AC1E1A300E20AA2 /* AppDelegate.swift in Sources */,
 				BEF67ABF2AC1E1A300E20AA2 /* SceneDelegate.swift in Sources */,
+				BEF67AD52AC1E48600E20AA2 /* OneCikanlar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
